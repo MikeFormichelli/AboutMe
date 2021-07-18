@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikeFormichelli
 - 👀 I’m interested in Modules for FoundryVTT, C#, Python
 - 🌱 I’m currently learning C# & Python
-- 💞️ I’m looking to collaborate on FoundryVTT Modules
+- 💞️ I’m looking to collaborate on FoundryVTT Module to put star ships into AlienRPG for FoundryVTT
 - 📫 How to reach me MikeTK4211138@gmail.com; Bricand#9381 on Discord
 
 <!---
